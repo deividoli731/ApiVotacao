@@ -1,0 +1,6 @@
+@ApiVotacao_HostAddress = http://localhost:5145
+
+GET {{ApiVotacao_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
